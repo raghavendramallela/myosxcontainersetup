@@ -3,7 +3,7 @@
 
 ## build the image
 ```
-podman build -t macosxventura Containerfile .
+podman build -t macosxventura -f Containerfile .
 ```
 ## run the container
 
